@@ -1,3 +1,1 @@
-<?php
 Hi friends
-?>
